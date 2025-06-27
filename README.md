@@ -96,7 +96,7 @@ Create a `.env` file in the root directory:
 
 ```env
 # Database Configuration
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/chill-chat
+MONGODB_URI=your-mongoDb-uri
 
 # Server Configuration
 PORT=5001
